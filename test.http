@@ -1,0 +1,8 @@
+POST http://localhost:4004/odata/v4/capsrv/eventinfo
+Content-Type: application/json
+
+{
+    "eventtype": "typeo",
+    "eventdata": "datao"
+}
+
